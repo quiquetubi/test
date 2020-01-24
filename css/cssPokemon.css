@@ -1,0 +1,119 @@
+﻿@charset "UTF-8";
+body {
+	background-color:#313033!important;
+
+	font-family: 'Comfortaa', cursive;
+
+}
+p{
+	font-size: 12pt;
+}
+.container{
+	padding: 2%;
+	width: 100%;
+	text-align: center;
+}
+.container-fluid{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#imagen{
+	
+	font-family: monospace;
+	color: #707070;
+	background-color: white;
+	border-top: #fff;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	
+	font-variant-caps: all-small-caps;
+	font-size: 12pt;
+	text-align: center;
+	text-size-adjust: 20;
+	padding-bottom: 1%;
+	margin-top: 2%;
+
+	
+
+
+}
+
+.evolutionStyle{
+	padding-top: 2%;
+
+	background-image: url(/img/bgpokedex.svg);
+	background-repeat: space ;
+	background-color:#FFFFFF;
+
+	background-repeat: repeat;
+	font-style: normal;
+	font-variant-caps: all-small-caps;
+	border-width: 50px;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 3%;
+	border-color: #fff;
+	text-align: center;
+	border: #ffffff;
+	border-width: 3%;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+
+
+}
+
+
+.row{
+
+	border:#FFFFFF !important;
+	padding: 1%;
+	}
+	
+
+
+h1{
+	background-color:#fff;
+	border-radius: 30px;
+	border-color:#58585A;
+	color:#D62D20;
+	border-style: solid;
+	padding: 5px;
+	font-size: 20pt;
+}
+
+
+h2{
+
+	background-color:#5DB9FF !important;
+
+	font-size: 16pt;
+}
+h3{
+	background-color:#5DB9FF !important;
+	border-color: #FFFFFF !important;
+	font-size: 16pt;
+
+}
+h4 {
+	font-style:italic !important;
+	background-color:#9DD24E !important;
+	font-size: 16pt;
+	}
+
+
+h5{
+	background-color: #E6A841 !important;
+	text-align: center;
+	font-size: 16pt;
+
+}
+h6{
+	font-size: 24pt;
+
+}
+
+
+
+	
+
